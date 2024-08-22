@@ -1,4 +1,4 @@
-#How Bug Bounties Made Me a Web App Security Pro
+# How Bug Bounties Made Me a Web App Security Pro
 
 Building a secure web app is like keeping raccoons out of your trash—it’s tricky, and they’ll find any weak spot. But here’s my secret weapon: **bug bounty knowledge**. And yep, I’m pretty good at it.
 
